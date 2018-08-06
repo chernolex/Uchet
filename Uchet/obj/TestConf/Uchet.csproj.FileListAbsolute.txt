@@ -1,0 +1,8 @@
+C:\Users\debug\Documents\Visual Studio 2010\Projects\Uchet\Uchet\bin\TestConf\Uchet.exe.config
+C:\Users\debug\Documents\Visual Studio 2010\Projects\Uchet\Uchet\bin\TestConf\Uchet.exe
+C:\Users\debug\Documents\Visual Studio 2010\Projects\Uchet\Uchet\bin\TestConf\Uchet.pdb
+C:\Users\debug\Documents\Visual Studio 2010\Projects\Uchet\Uchet\obj\TestConf\Uchet.Form1.resources
+C:\Users\debug\Documents\Visual Studio 2010\Projects\Uchet\Uchet\obj\TestConf\Uchet.Properties.Resources.resources
+C:\Users\debug\Documents\Visual Studio 2010\Projects\Uchet\Uchet\obj\TestConf\Uchet.csproj.GenerateResource.Cache
+C:\Users\debug\Documents\Visual Studio 2010\Projects\Uchet\Uchet\obj\TestConf\Uchet.exe
+C:\Users\debug\Documents\Visual Studio 2010\Projects\Uchet\Uchet\obj\TestConf\Uchet.pdb
